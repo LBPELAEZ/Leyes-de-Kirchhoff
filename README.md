@@ -75,8 +75,6 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 ### 4. Lista de componentes
 
-
-
 ### 5. Explicación
 
 ### 6. Descripcion de prerrequisitos y configuración
@@ -85,7 +83,21 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 ### 9. Conclusiones 
 
+- Hemos descubierto de forma teórica los valores de la corriente y del voltaje que fluye por cada una de las resistencias del circuito, mediante del simulador online para lo cual usamos las reglas de Kirchhoff. 
+
+- Costatamos que las leyes de Kirchhoff al acatar los valores adquiridos tanto de forma teórica como de forma experimental, visulizando que la diferencia entre estas es mínima, por lo tanto podríamos concluir en que las leyes de Kirchhoff se cumplen los valores arrojados de error porcentual de medición del teórico con respecto al experimental depende del instrumento (Resistencia interna,Precisión de medición).
+
+- Los valores de corriente fueron también determinados a partir del método de mallas, y al tener nuestras ecuaciones con la ayuda matrices pudimos obtener los valores teóricos  
+  de la corriente y por ende los voltajes, además y se puede apreciar que los valores casi son los mismos.
+
 ### 10. Bibliografía 
+
+https://www.lifeder.com/gustav-kirchhoff/
+
+https://www.academia.edu/6820754/LABORATORIO_No_3_LEYES_DE_KIRCHOFF
+
+https://www.ecured.cu/Leyes_de_Kirchhoff
+
 
 ### 11. Anexos
 
