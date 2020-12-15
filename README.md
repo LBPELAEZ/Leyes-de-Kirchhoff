@@ -44,13 +44,13 @@ La ley de Kirchhoff, constituyen la base de los análisis moderno de redes. Son 
 
 1. Ley de nodos
 
-La suma algebraica de las corrientes en un nodo es igual a cero.      
+ La suma algebraica de las corrientes en un nodo es igual a cero.      
 
- I1 – I2 – I3 = 0
+I1 – I2 – I3 = 0
 
 2. Ley de mallas 
 
-La suma de todas las caídas de tensión en un malla es igual a la suma de todas las tensiones aplicada
+ La suma de todas las caídas de tensión en un malla es igual a la suma de todas las tensiones aplicada
 
 VAB = V1 + V2 + V3
 
@@ -71,17 +71,17 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 - V3 = I3 (R4 + R5) – I2 (R4)
 
-### 3. Diagrama
+### 3.DIAGRAMA
 
-### 4. Lista de componentes
+### 4. LISTA DE COMPONENTES
 
-### 5. Explicación
+### 5. EXPLICACIÓN
 
-### 6. Descripcion de prerrequisitos y configuración
+### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-### 7. Aportaciones 
+### 7. APORTACIONES 
 
-### 9. Conclusiones 
+### 9. CONCLUSIONES 
 
 - Hemos descubierto de forma teórica los valores de la corriente y del voltaje que fluye por cada una de las resistencias del circuito, mediante del simulador online para lo cual usamos las reglas de Kirchhoff. 
 
@@ -90,7 +90,7 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 - Los valores de corriente fueron también determinados a partir del método de mallas, y al tener nuestras ecuaciones con la ayuda matrices pudimos obtener los valores teóricos  
   de la corriente y por ende los voltajes, además y se puede apreciar que los valores casi son los mismos.
 
-### 10. Bibliografía 
+### 10. BIBLIOGRAFÍA 
 
 https://www.lifeder.com/gustav-kirchhoff/
 
@@ -99,7 +99,7 @@ https://www.academia.edu/6820754/LABORATORIO_No_3_LEYES_DE_KIRCHOFF
 https://www.ecured.cu/Leyes_de_Kirchhoff
 
 
-### 11. Anexos
+### 11. ANEXOS
 
 
 
