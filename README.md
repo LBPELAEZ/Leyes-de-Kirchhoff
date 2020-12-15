@@ -4,7 +4,7 @@ RESUMEN
 
 La experiencia de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, solamente matemáticos y por medio de voltaje o voltímetro, para finalmente comparar los resultados y comprobar las leyes de Kirchhoff.
 
-1.  OBJETIVOS
+### 1.  OBJETIVOS
 
 OBJETIVO GENERAL
 
@@ -18,7 +18,7 @@ OBJETIVOS ESPECÍFICOS
 
 - Verificar las leyes de Kirchhoff: Ley de Mallas y ley de Nodos.
 
-2. MARCO TEÓRICO
+### 2. MARCO TEÓRICO
 
 En 1845 enunció las denominadas leyes de Kirchhoff, aplicables al cálculo de tensiones, intensidades y resistencias en el sí de una malla eléctrica; entendidas como una extensión de la ley de la conservación de la energía, se basaban en la teoría del físico Georg Simon Ohm, según la cual la tensión que origina el paso de una corriente eléctrica es proporcional a la intensidad de la corriente.
 
@@ -56,6 +56,8 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 3) Los valores de resistencias y de tensiones se conocen, por lo tanto quedan 3 ecuaciones con 3 incógnitas (para 3 mallas interiores) en donde cada incógnita es la corriente de malla. Resolviendo el sistema se obtienen las corrientes. Si se obtiene alguna corriente negativa quiere decir que el sentido real es al revés del elegido.
 
 - V3 = I3 (R4 + R5) – I2 (R4)
+
+
 
 
 
