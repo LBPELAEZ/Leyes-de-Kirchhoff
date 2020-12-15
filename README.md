@@ -2,7 +2,7 @@
 
 #### RESUMEN
 
-La experiencia de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, solamente matemáticos y por medio de voltaje o voltímetro, para finalmente comparar los resultados y comprobar las leyes de Kirchhoff.
+La practica de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, exclusivamente matemáticos y por medio de voltaje o voltímetro, para concluir compararamos los resultados verificar las leyes de Kirchhoff.
 
 ### 1.  OBJETIVOS
 
@@ -74,6 +74,8 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 ### 3.DIAGRAMA
 
 ### 4. LISTA DE COMPONENTES
+
+
 
 ### 5. EXPLICACIÓN
 
