@@ -1,18 +1,18 @@
 # LEYES DE KIRCHHHOFF
 
-RESUMEN
+#### RESUMEN
 
 La experiencia de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, solamente matemáticos y por medio de voltaje o voltímetro, para finalmente comparar los resultados y comprobar las leyes de Kirchhoff.
 
 ### 1.  OBJETIVOS
 
-OBJETIVO GENERAL
+#### OBJETIVO GENERAL
 
 - Realizar mediciones de corrientes y voltajes en un circuito con tres fuentes de poder y comparar los valores obtenidos experimentalmente, con los obtenidos del cálculo aplicando las leyes de Kirchhoff.
 
 - La experiencia de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, solamente matemáticos y por medio de voltaje o voltímetro, para finalmente comparar los resultados y comprobar las leyes de Kirchhoff.
 
-OBJETIVOS ESPECÍFICOS
+#### OBJETIVOS ESPECÍFICOS
 
 - Afianzar experimentalmente las leyes de conservación de la energía eléctrica y la Conservación de la carga.
 
@@ -20,7 +20,21 @@ OBJETIVOS ESPECÍFICOS
 
 ### 2. MARCO TEÓRICO
 
+Gustav Kirchhoff (1824-1887) fue un físico alemán nacido en marzo de 1824 en la entonces Prusia oriental. Durante su carrera científica realizó importantes contribuciones en campos como la electricidad, la espectroscopia o la medición de radiaciones de los cuerpos negros. 
+
 En 1845 enunció las denominadas leyes de Kirchhoff, aplicables al cálculo de tensiones, intensidades y resistencias en el sí de una malla eléctrica; entendidas como una extensión de la ley de la conservación de la energía, se basaban en la teoría del físico Georg Simon Ohm, según la cual la tensión que origina el paso de una corriente eléctrica es proporcional a la intensidad de la corriente.
+
+Las tres leyes de la espectroscopia de Kirchhoff
+
+El científico elaboró un conjunto de leyes para describir cómo se comporta la emisión de luz por objetos incandescentes:
+
+1- Un objeto sólido caliente produce luz en un espectro continuo.
+
+2- Un gas tenue produce luz con líneas espectrales en longitudes de onda discretas que dependen de la composición química del gas.
+
+3- Un objeto sólido a alta temperatura rodeado de un gas tenue a temperaturas inferiores produce luz en un espectro continuo con huecos en longitudes de onda discretas cuyas posiciones dependen de la composición química del gas.
+
+Las tres leyes sobre la espectrografía de Kirchhoff fueron, más adelante, la base de la aparición de la mecánica cuántica.
 
 La ley de Kirchhoff, constituyen la base de los análisis moderno de redes. Son aplicables a circuitos con una o más fuentes de tensión.
 
@@ -57,35 +71,23 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 - V3 = I3 (R4 + R5) – I2 (R4)
 
+### 3. Diagrama
+
+### 4. Lista de componentes
 
 
 
+### 5. Explicación
 
+### 6. Descripcion de prerrequisitos y configuración
 
+### 7. Aportaciones 
 
+### 9. Conclusiones 
 
+### 10. Bibliografía 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 11. Anexos
 
 
 
