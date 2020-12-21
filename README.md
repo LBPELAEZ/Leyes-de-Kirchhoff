@@ -2,6 +2,7 @@
 
 #### RESUMEN
 
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/Diagrama%20circuito%20resistivo%20mixto.jpg)
 La practica de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, exclusivamente matemáticos y por medio de voltaje o voltímetro, para concluir compararamos los resultados verificar las leyes de Kirchhoff.
 
 ### 1.  OBJETIVOS
