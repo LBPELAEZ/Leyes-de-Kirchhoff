@@ -141,6 +141,7 @@ Agregamos el uso de un software no señalado en la clase que se llama diagrama D
 ### 10. BIBLIOGRAFÍA 
 
 Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
+
 https://www.lifeder.com/leyes-kirchhoff/
 
 
