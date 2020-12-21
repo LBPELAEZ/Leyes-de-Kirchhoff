@@ -142,9 +142,10 @@ Agregamos el uso de un software no señalado en la clase que se llama diagrama D
 
 Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
 
-https://www.lifeder.com/leyes-kirchhoff/
+     https://www.lifeder.com/leyes-kirchhoff/
 
+Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 
-https://www.academia.edu/6820754/LABORATORIO_No_3_LEYES_DE_KIRCHOFF
+     https://electronicacompleta.com/leyes-de-kirchhoff/
 
 https://www.ecured.cu/Leyes_de_Kirchhoff
