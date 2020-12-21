@@ -22,6 +22,8 @@ La practica de este laboratorio consiste en hacer la configuración en un circui
 
 ### 2. MARCO TEÓRICO
 
+![](https://es.wikipedia.org/wiki/Gustav_Kirchhoff#/media/Archivo:Gustav_Robert_Kirchhoff.jpg)
+
 Gustav Kirchhoff (1824-1887) fue un físico alemán nacido en marzo de 1824 en la entonces Prusia oriental. Durante su carrera científica realizó importantes contribuciones en campos como la electricidad, la espectroscopia o la medición de radiaciones de los cuerpos negros. 
 
 En 1845 enunció las denominadas leyes de Kirchhoff, aplicables al cálculo de tensiones, intensidades y resistencias en el sí de una malla eléctrica; entendidas como una extensión de la ley de la conservación de la energía, se basaban en la teoría del físico Georg Simon Ohm, según la cual la tensión que origina el paso de una corriente eléctrica es proporcional a la intensidad de la corriente.
@@ -147,5 +149,3 @@ Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
 Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 
      https://electronicacompleta.com/leyes-de-kirchhoff/
-
-https://www.ecured.cu/Leyes_de_Kirchhoff
