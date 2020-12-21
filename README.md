@@ -1,8 +1,9 @@
-# LEYES DE KIRCHHHOFF
+# LEYES DE KIRCHHHOFF - LABORATORIO 1
+
+#### INTEGRANTES: EDISON CADENA - LISSANDRO PELAEZ
 
 #### RESUMEN
 
-![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/Diagrama%20circuito%20resistivo%20mixto.jpg)
 La practica de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, exclusivamente matemáticos y por medio de voltaje o voltímetro, para concluir compararamos los resultados verificar las leyes de Kirchhoff.
 
 ### 1.  OBJETIVOS
@@ -74,15 +75,71 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 ### 3.DIAGRAMA
 
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/Diagrama%20circuito%20resistivo%20mixto.jpg)
+
 ### 4. LISTA DE COMPONENTES
 
+Los componentes para relaizar el laboratorio son los siguientes:
 
-
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%202.jpg)
 ### 5. EXPLICACIÓN
+
+Realice el circuito visto en el diagrama 1 en el simulador de tinkercad.
+
+Con los multımetros proceda a tomar el voltaje en cada uno de los resistores y
+anote los resultadas en la tabla correspondiente.
+
+Con el mismo multimetro coloquelo para medir corriente, proceda a medir la
+corriente en cada uno de los resistores y coloque los resultados en la tabla
+correspondiente.
+
+Con los valores obtenidos proceda a verificar que se cumple la ley de Kirchhoff.
+
+Con los valores obtenidos analiticamente y los valores medidos proceda a compararlos.
+
+
+realizamos los calculos correspondientes para econtrar los V y I:
+
+
+![]()
+
+aca realizamos los calculos para econtrar porcentaje de error:
+
+![]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos%202.jpg)
+
+aca mostramos las tablas con los calculos correspondientes:
+
+
+![]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%201.jpg)
+
+
+
+![tabla%203.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%203.jpg)
+
+
+
+![tabla%204.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%204.jpg)
+
+
+
 
 ### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
+
+
+Presntamos la simulacion realizada por la plataforma tiderkat:
+
+![tabla%205.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%205.jpg)
+
 ### 7. APORTACIONES 
+
+Agregamos el uso de un software no señalado en la clase que se llama diagrama DIA-UML donde presentamos el diagram o esquema de circuitos.
+
 
 ### 9. CONCLUSIONES 
 
@@ -100,26 +157,3 @@ https://www.lifeder.com/gustav-kirchhoff/
 https://www.academia.edu/6820754/LABORATORIO_No_3_LEYES_DE_KIRCHOFF
 
 https://www.ecured.cu/Leyes_de_Kirchhoff
-
-
-### 11. ANEXOS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
